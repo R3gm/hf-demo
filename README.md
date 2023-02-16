@@ -3,6 +3,8 @@ hf-demo
 ~~~
 virtualenv ~/.venv
 nano ~/.bashrc
+#source ~./venv/bin/activate
+
 touch app.py
 touch Makefile
 touch requirements.txt
