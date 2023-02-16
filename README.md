@@ -10,7 +10,7 @@ pinned: false
 license: cc-by-4.0
 ---
 
-[![Sync to Hugging Face hub](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/R3gm/hf-demo/blob/main/.github/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/R3gm/hf-demo/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/R3gm/hf-demo/blob/main/.github/workflows/main.yml)
 
 
 https://huggingface.co/spaces/r3gm/demo
