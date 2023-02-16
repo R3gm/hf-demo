@@ -1,4 +1,5 @@
-title: Summarize demo
+---
+title: Summarize Test
 emoji: 📉
 colorFrom: yellow
 colorTo: green
@@ -7,6 +8,7 @@ sdk_version: 3.2
 app_file: app.py
 pinned: false
 license: cc-by-4.0
+---
 
 # hf-demo
 hf-demo
