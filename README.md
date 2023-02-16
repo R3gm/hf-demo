@@ -10,6 +10,8 @@ pinned: false
 license: cc-by-4.0
 ---
 
+https://huggingface.co/spaces/r3gm/demo
+
 # hf-demo
 hf-demo
 ~~~
